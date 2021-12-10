@@ -68,6 +68,7 @@ web_modules/
 .yarn-integrity
 
 # dotenv environment variables file
+/home/wajdi/workspace/react/burger-builder-starting-setup/.env
 .env
 .env.test
 
